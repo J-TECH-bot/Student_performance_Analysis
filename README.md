@@ -20,7 +20,6 @@ The EDA process involved cleaning, transforming, and visualizing a student perfo
 * Influence of lunch type on academic outcomes.
 
 ## Actionable Insights: Derives recommendations for schools to improve grades and engagement based on the analytical findings.
-## Based on the Exploratory Data Analysis (EDA) file:
 
 ## The following factors significantly impact student academic performance:
 
